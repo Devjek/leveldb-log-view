@@ -1,0 +1,24 @@
+{
+  "name": "studentsummary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app_server",
+  "scripts": {
+    "test": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "JSONStream": "^1.3.1",
+    "body-parser": "^1.16.1",
+    "bytewise": "^1.1.0",
+    "changeset": "^0.2.1",
+    "cors": "^2.8.1",
+    "express": "^4.14.1",
+    "leveldown": "^1.6.0",
+    "levelup": "^1.3.3",
+    "node-uuid": "^1.4.7",
+    "request": "^2.79.0",
+    "through2": "^2.0.3"
+  }
+}
